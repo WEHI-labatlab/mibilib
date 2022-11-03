@@ -15,7 +15,7 @@ setup(name='mibilib',
       install_requires=[
           'matplotlib==3.3.2',
           'numpy==1.20.0',
-          'pandas==1.2.3',
+          'pandas==1.4.4',
           'pillow==8.2.0',
           'requests==2.20.1',
           'scikit-image==0.19.3',
